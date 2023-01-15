@@ -27,7 +27,7 @@ public class App {
             switch (pil) {
                 case 1 :
                     do {
-                        System.out.println("Menu HP Xiaomi");
+                        System.out.println("\t*****Menu HP Xiaomi*****");
                         System.out.println("1. Nyalakan HP");
                         System.out.println("2. Matikan HP");
                         System.out.println("3. Perbesar Volume");
